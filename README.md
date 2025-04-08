@@ -1,4 +1,4 @@
-# NeuroForge ![alt text](Icon_Enemy_Netrunner-1.ico)
+# NeuroForge ![NetRunner Icon](https://static.wikia.nocookie.net/cyberpunk/images/3/38/Icon_Enemy_Netrunner.png/revision/latest?cb=20210406165209)
 This program is a password generator and manager. It allows you to generate random passwords,
 based on the keywords you provide, and store them securely. You can also export your passwords to a
 file.
