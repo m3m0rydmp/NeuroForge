@@ -9,3 +9,4 @@ Icon_Enemy_Netrunner.ico
 dist/
 build/
 __pycache__/
+menu/__pycache__/
