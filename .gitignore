@@ -1,0 +1,11 @@
+# Excluding these files
+NeuroForge.spec
+passwords.dat
+keywords.dat
+test.py
+Icon_Enemy_Netrunner.ico
+
+# Ignore the following directory
+dist/
+build/
+__pycache__/
