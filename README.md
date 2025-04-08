@@ -1,4 +1,4 @@
-# NeuroForge
+# NeuroForge ![alt text](Icon_Enemy_Netrunner-1.ico)
 This program is a password generator and manager. It allows you to generate random passwords,
 based on the keywords you provide, and store them securely. You can also export your passwords to a
 file.
